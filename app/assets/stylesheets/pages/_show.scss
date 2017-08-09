@@ -1,0 +1,30 @@
+.show-container {
+  width: 700px;
+  background-color: rgb(250,250,250);
+  margin: 20px auto;
+  a {
+    text-decoration: none;
+    font-color: #74D3AE;
+  }
+}
+
+.restaurant{
+  margin-top: 100px;
+}
+
+.infos{
+  width: 800px;
+  margin: 1px auto;
+  background-color: rgb(240,240,240);
+  border-top: 1px solid #74D3AE;
+  list-line: none;
+
+}
+.title{
+  width: 800px;
+  margin: 0px auto;
+  padding-bottom: 0px;
+  h3 {
+  font-size: 20px;
+  }
+}
